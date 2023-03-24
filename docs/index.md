@@ -13,6 +13,8 @@ date-meta: 20 March 2023
 
 ## 📝 Project Description
 
+This project will be about crime data analysis with graph neural networks.
+
 ## 📊 Data
 
 ## 📈 Analysis
